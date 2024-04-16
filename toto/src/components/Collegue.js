@@ -2,7 +2,7 @@ import React from 'react'
 
 function Collegue() {
     return (
-        <div>Collegue </div>
+        <div>Collegue 123456</div>
     )
 }
 
